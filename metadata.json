@@ -1,0 +1,5 @@
+{
+  "name": "Script Documenter AI",
+  "description": "An AI-powered tool that automatically generates comprehensive documentation for your code scripts. Simply paste your script, select the language, and let Gemini provide a detailed explanation.",
+  "requestFramePermissions": []
+}
